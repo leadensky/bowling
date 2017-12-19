@@ -1,3 +1,7 @@
+#This is based on 
+#https://sites.google.com/site/unclebobconsultingllc/home/articles/the-bowling-game-an-example-of-test-first-pair-programming
+#Ported from Java to see if I could translate it into Python.
+
 class Game:
     def __init__(self):
         self.itsScorer = Scorer()
