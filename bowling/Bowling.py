@@ -1,3 +1,6 @@
+#This was my initial attempt. Got stuck and went looking for help.
+#Result is in Bowling2.py
+
 class Frame:
     number = 0
     first = None
